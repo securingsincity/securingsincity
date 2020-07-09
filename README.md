@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm James 
 
-- :blue_heart: I'm an Engineering Manager at [@MaxwellHealth](https://github.com/maxwellhealth) - you can read more about my management style on my [manager readme](https://github.com/securingsincity/manager-readme)
+- :green_heart: I'm an Engineering Manager at [@MaxwellHealth](https://github.com/maxwellhealth) - you can read more about my management style on my [manager readme](https://github.com/securingsincity/manager-readme)
 - :ship: I'm currently building [Molasses.app](https://github.com/molassesapp) - Feature Toggles and A/B Testing as a Service
 - :+1: I maintain [securingsincity/react-ace](https://github.com/securingsincity/react-ace)
 
