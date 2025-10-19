@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :ship: I'm currently building [Molasses.app](https://github.com/molassesapp) - Feature Toggles and A/B Testing as a Service
+- :ship: VP of Engineering at [Cariloop](https://www.cariloop.com)
 - :+1: I maintain [securingsincity/react-ace](https://github.com/securingsincity/react-ace)
 
 <!--
